@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"s3","Source":"./modules/s3","Dir":"modules/s3"},{"Key":"","Source":"","Dir":"."},{"Key":"cloudfront_s3_website_without_domain","Source":"chgangaraju/cloudfront-s3-website/aws","Version":"1.2.2","Dir":".terraform/modules/cloudfront_s3_website_without_domain"},{"Key":"cloudfront","Source":"./modules/cloudfront","Dir":"modules/cloudfront"}]}
